@@ -1,3 +1,6 @@
 torch
+matplotlib
 numpy
+swig
 gymnasium
+moviepy

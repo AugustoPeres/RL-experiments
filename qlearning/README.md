@@ -16,5 +16,5 @@ After 500 episodes:
 
 After 2000 episodes:
 
-![](moon_lander_images/episode_200.gif)
+![](moon_lander_images/episode_2000.gif)
 
